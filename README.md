@@ -12,6 +12,8 @@ Africa
 
 And more...
 
+![Image](https://github.com/user-attachments/assets/695ab6e6-ac19-4c26-b344-8d1ef211d18d)
+
 The dataset includes detailed information such as:
 
 Console
@@ -44,7 +46,7 @@ Which titles sold the most worldwide?
 
 Which year had the highest sales? Has the industry grown over time?
 
-Do any consoles seem to specialise in a particular genre?
+Do any consoles seem to specialise in a particular genre
 
 ## Project Objectives
 
